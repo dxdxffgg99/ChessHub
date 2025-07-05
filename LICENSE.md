@@ -12,4 +12,4 @@
 
 상업적 라이선스 문의: dxdxffgg99@gmail.com
 
-[English 🇺🇸](./license_en.md) | [日本語 🇯🇵](./license_ja.md) | [中文 🇨🇳](./license_zh.md) | [Español 🇪🇸](./license_es.md) | [Français 🇫🇷](./license_fr.md) | [Deutsch 🇩🇪](./license_de.md)
+[English 🇺🇸](./LISENCE/license_en.md) | [日本語 🇯🇵](./LISENCE/license_ja.md) | [中文 🇨🇳](./LISENCE/license_zh.md) | [Español 🇪🇸](./LISENCE/license_es.md) | [Français 🇫🇷](./LISENCE/license_fr.md) | [Deutsch 🇩🇪](./LISENCE/license_de.md)

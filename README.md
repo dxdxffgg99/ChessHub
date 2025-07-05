@@ -16,7 +16,6 @@ LiChess에서 영감을 받아 제작된 오픈소스 체스 플랫폼입니다.
 
 ## 📦 기술 스택
 
-- 프론트엔드: React / Svelte (또는 사용하시는 프레임워크)
 - 백엔드: Cloudflare Workers + Durable Objects
 - 엔진: WebAssembly 기반 Stockfish
 - 저장소: Redis, D1 또는 PostgreSQL

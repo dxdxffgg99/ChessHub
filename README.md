@@ -1,6 +1,6 @@
 # ♟️ 체스 프로젝트
 
-['LiChess'](lichess.org),['Chess.com'](chess.com)에서 영감을 받아 제작된 오픈소스 체스 플랫폼입니다.  
+['LiChess'](https://lichess.org),['Chess.com'](https://chess.com)에서 영감을 받아 제작된 오픈소스 체스 플랫폼입니다.  
 누구나 자유롭게 학습하고 기여할 수 있어요.
 
 ---
